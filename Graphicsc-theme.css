@@ -10,5 +10,6 @@
         body {
             background-image: url('myBackground.jpg');
             background-repeat: no-repeat;
+            background-size: cover;
         }
             
