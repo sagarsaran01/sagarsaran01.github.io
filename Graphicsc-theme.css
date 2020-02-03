@@ -1,6 +1,15 @@
- h2 {
-            color: rgb(0, 232, 15);
-        }  
+         h1 {
+          margin-left: auto;
+          margin-right:auto;
+          width; 50%;
+          }  
+
+          p{
+          margin-left: auto;
+          margin-right:auto;
+          width; 50%;
+          }  
+
         .center{
          display: block;
          margin-left: auto;
@@ -13,10 +22,7 @@
          margin-right:auto;
          width; 50%; }
 
-         #index-info{
-         text-allign:center;
-         width; 50%; 
-           }
+      
         body {
             background-image: url('myBackground.jpg');
             background-repeat: no-repeat;
